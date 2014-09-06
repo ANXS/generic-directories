@@ -1,4 +1,4 @@
-## Ansibles - generic-directories [![Build Status](https://travis-ci.org/Ansibles/generic-directories.png)](https://travis-ci.org/Ansibles/generic-directories)
+## ANXS - generic-directories [![Build Status](https://travis-ci.org/ANXS/generic-directories.png)](https://travis-ci.org/ANXS/generic-directories)
 
 Ansible role which manages directories
 
@@ -28,4 +28,4 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/ansibles/generic-directories/issues)!
+Are [welcome](https://github.com/ANXS/generic-directories/issues)!
