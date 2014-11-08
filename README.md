@@ -15,6 +15,7 @@ genericdirectories_directories:
     owner: "www-data"
     group: "www-data"
     mode: "0644"
+    recurse: "yes"
 
 genericdirectories_directories_removed:
   - path: "/dir/to/be/removed"
